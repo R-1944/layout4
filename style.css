@@ -1,8 +1,15 @@
-/* .container-fluid{
-     background-color: red; 
-     height: 50rem;
-    width: 50rem; 
-} */
+
+.first_left{
+    margin-top: -50px;
+    opacity: 0.7;
+}
+.plus_icon{
+    color: rgb(255, 0, 93); 
+    font-size: 40px;
+    font-weight:bolder;
+    margin-bottom: -50px;
+    margin-left: -180px;
+}
 .header{
     
     background-color: black;
@@ -12,18 +19,7 @@
     text-align: center;
     padding: 10px;
 }
-/* .header_right
-{
-    background-color: rgb(17, 56, 231);
-    height: 50px;
-    width: 100px;
-    /* margin-left:- 10rem; */
-.main_img{
-    /* background-image: url("./main.png"); */
-    /* height: 100rem;
-    width: 100rem; */
-    /* background-repeat: no-repeat;  */
-}
+
  .header_2{
     background-image: url('./main.png');
     background-repeat: no-repeat;
@@ -51,10 +47,24 @@
     margin-left: 70px;
     display: flex;
 }
+.line{
+    border-left: 10px #ff008c solid;
+    height: 150px;
+    width: 50px;
+    margin-top: 90px;
+    margin-left: -200px;
+
+}
+.dote{
+    margin-top: -60px;
+    margin-left: 690px;
+}
 .right_text{
     text-align: left;
     margin-top: 90px;
     font-size: 30px;
+    margin-left: 120px;
+    font-style: italic;
 
 }
 .chat{
@@ -76,16 +86,18 @@
 .paragrph{
     margin-left: 70px;
 }
-/* .footer{
-    background-color: black;
 
-    
-} */
 .footer1{
     font-size: 20px;
     font-weight: 700;
     color: white;
     margin-left: 70px;
+}
+.border{
+    border: 10px solid white;
+    width: 40px;
+    margin-left: 150px;
+    margin-bottom: 50px    ;
 }
 .business{
     color: gray;
@@ -95,10 +107,51 @@
     padding: 50px;
     z-index: -5;
 }
- /* .footer2{
-    font-size: 40px;
-    font-weight: bold;
-    color: white;
+ 
+.business{
+    color: rgba(255, 255, 255, 0.451);
+    font-size: 200%;
+    margin-right: 200%;
+    /* margin-top:  */
+}
+.its{
+    margin-top: -21%;
     margin-left: 50px;
+
+}
+.core{
+    margin-left:50px ;
+}
+.temp{
+    margin-left: 50px;
+}
+.create{
+    padding: 20px;
+    font-size: 20px;
+} 
+.hr1{
+    border: 5px solid white;
+    width: 50px;
+    margin-left: 55px;
+}
+.hr2{
+    border: 5px solid white;
+    width: 30px;
+    margin-left: 55px;
+}
+.hr3{
+    border: 5px solid white;
+    width: 10px;
+    margin-left: 55px;
+}
+.footer_hr3{
+    padding-top: 8px;
     margin-top: 50px;
-}  */
+    font-size: medium;
+}
+.pink_line{
+    border: 5px rgb(255, 0, 119) solid;
+    width: 30px;
+    margin-left: 270px;
+    margin-top: -30px;
+}
